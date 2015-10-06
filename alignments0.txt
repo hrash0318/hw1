@@ -1,0 +1,5 @@
+CGA 4 7
+TAG 0
+AGT 1
+GGG -1
+GTC 2
